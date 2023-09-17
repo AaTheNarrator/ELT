@@ -1,0 +1,4 @@
+movie_id, title, year, director
+1, "The Shawshank Redemption", 1994, "Frank Darabont"
+2, "The Godfather", 1972, "Francis Ford Coppola"
+3, "Pulp Fiction", 1994, "Quentin Tarantino"
